@@ -1,0 +1,2 @@
+streamlit
+rclone-python
